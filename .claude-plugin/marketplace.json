@@ -1,0 +1,11 @@
+{
+  "name": "php2shell-checker",
+  "owner": { "name": "Ramzi Hemadou" },
+  "plugins": [
+    {
+      "name": "php2shell-checker",
+      "source": "./",
+      "description": "Check whether a website or local PHP binary is vulnerable to php2shell by comparing its PHP version against per-branch patch cutoffs."
+    }
+  ]
+}

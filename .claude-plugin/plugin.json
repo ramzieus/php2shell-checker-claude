@@ -1,0 +1,7 @@
+{
+  "name": "php2shell-checker",
+  "version": "1.0.0",
+  "description": "Check whether a website or local PHP binary is vulnerable to php2shell by comparing its PHP version against per-branch patch cutoffs.",
+  "license": "Apache-2.0",
+  "keywords": ["php", "security", "php2shell", "vulnerability-check"]
+}
